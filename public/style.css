@@ -1,0 +1,26 @@
+body{
+    background-color: white
+}
+body > .red{
+    background-color: red;
+    height: 200px;
+    width:300px;
+    border:5px solid black;
+    display: inline-block;
+    margin-left: 230px;
+    margin-top: 15%;
+}
+body > .green{
+    background-color: green;
+    height: 200px;
+    width: 300px;
+    border:5px solid black;
+    display: inline-block;
+}
+body > .blue{
+    background-color: blue;
+    height:200px;
+    width: 300px;
+    border:5px solid black;
+    display: inline-block;
+}
